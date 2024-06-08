@@ -1,3 +1,4 @@
+![logo](https://github.com/jitendrakumarswain/jitendrakumarswain/blob/main/linkdnbanner.jpeg)
 <h1 align="center">Hi 👋, I'm Jitendra Kumar Swain</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif"></img>

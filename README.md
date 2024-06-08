@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jitendr07914799" target="blank"><img src="https://img.shields.io/twitter/follow/jitendr07914799?logo=twitter&style=for-the-badge" alt="jitendr07914799" /></a> </p>
 
-- 🔭 I take project development training on Foodbox at Opentechz Company.Food box is a dynamic online food ordering project where we can sign up easily and login without any problem. A customer can view the products, hotels etc. and can easily place order. For this project I used many programming languages like java, JavaScript, html, CSS, bootstrap, API, jQuery, JDBC, servlet, jsp. Used various types of method like Get and Post method. Many operations are CRUD, MVC flow. • Serviced CRUD (Create, Read, Update, Delete) functionality for events, granting users streamlined event management capabilities and realising a 15% boost in operational efficiency. **Foodbox**
+- 🔭 I take project development training on Foodbox at Opentechz Company.Food box is a dynamic online food ordering project where we can sign up easily and login without any problem. A customer can view the products, hotels etc. and can easily place order. For this project I used many programming languages like java, JavaScript, html, CSS, bootstrap, API, jQuery, JDBC, servlet, jsp. Used various types of method like Get and Post method. Many operations are CRUD, MVC flow. • Serviced CRUD (Create, Read, Update, Delete) functionality for events, granting users streamlined event management capabilities and realising a 15% boost in operational efficiency.
 
 - 🌱 I’m currently learning **Java full Stack Development**
 

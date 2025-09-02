@@ -1,6 +1,6 @@
 ![logo](https://github.com/jitendrakumarswain/jitendrakumarswain/blob/main/linkdnbanner.jpeg)
 <h1 align="center">Hi 👋, I'm Jitendra Kumar Swain</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Java Full stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendrakumarswain&label=Profile%20views&color=0e75b6&style=flat" alt="jitendrakumarswain" /> </p>
